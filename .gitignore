@@ -1,0 +1,16 @@
+compat/
+
+## fossil
+.fossil-settings/
+_FOSSIL_
+manifest
+manifest.*
+sqlite.fossil
+
+## local
+*.raw/
+sqlite.log
+
+## windows
+.vs/
+.vscode/
